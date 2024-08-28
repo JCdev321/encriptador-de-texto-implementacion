@@ -172,7 +172,6 @@
     height: 50%;
     top: 15%;
   }
-  
   /* Responsive design */
   @media (max-width: 57.5em) {
     .container {
@@ -189,7 +188,7 @@
       top: 5%;
     }
     .terminos {
-      width: 80%;
+      width: 85%;
       left: 10%;
       top: 67%;
     }
